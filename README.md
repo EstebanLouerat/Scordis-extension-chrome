@@ -1,2 +1,2 @@
-# Scordis-extension-chrome
+# Scordy-extension-chrome
 Design Sprint of 5 days
